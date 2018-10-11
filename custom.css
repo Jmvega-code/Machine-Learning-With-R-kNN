@@ -1,0 +1,21 @@
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 14px;
+    border-left: 5px solid #eee;
+}
+
+img {
+    margin-left: 55px;
+    margin-bottom: 10px;
+    width: 600px;
+    height: 400px;
+  }
+
+  .caption {
+    font-size: 0.9em;
+    color: grey;
+    margin-right: 10%;
+    margin-left: 10%;  
+    text-align: center;
+  }
