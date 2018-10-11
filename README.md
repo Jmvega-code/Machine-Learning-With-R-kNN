@@ -5,4 +5,4 @@ En este documento se realiza un informe dinámico del ejemplo de k-NN para el di
 
 Reference
 ----
-Lantz, Brett. 2015. Machine Learning with R. 2nd ed. Packt Publishing.10
+Lantz, Brett. 2015. Machine Learning with R. 2nd ed. Packt Publishing.
